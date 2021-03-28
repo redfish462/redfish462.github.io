@@ -2,7 +2,7 @@
 title: Setup an ELK Cluster with a Hot-Warm-Cold Architecture in 2021
 date: 2021-03-27 06:53:54 +01:00
 tags: [elk, sysadmin, elasticsearch, logstash, kibana, data, siem]
-description: 
+description: Summary of the blog post suite on Elastic Stack
 ---
 
 This is my first blog post and I decided to write a series of article because it's a big subject.
